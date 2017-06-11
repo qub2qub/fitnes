@@ -1,0 +1,10 @@
+##.b-discoverytimes-container
+##.b-discoverytimes-items
+##.b-discoverytimes-banner
+##.b-discoverytimes-items-container
+
+##.b-discoverytimes-wrapper
+##.b-discoverytimes
+##.b-journalpromo-container
+##.entry-wrap-threeposts
+##.j-adv
